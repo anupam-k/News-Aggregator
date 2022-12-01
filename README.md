@@ -1,5 +1,4 @@
 # News Aggregator : Khabrilal📰📰
-<img src="./Banner.svg">
 
 ## Features
 - A News Aggregator implemented with <b>Django Framework</b>
